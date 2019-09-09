@@ -26,7 +26,7 @@ Before anything else, make a copy of Vagrantfile
     - python -m venv ~/env
     (This will create Python env)
 5. To activate your environment
-    - source ~/env/bin/acvitave
+    > source ~/env/bin/acvitave
     (To deactivate)
     - deactivate
 
